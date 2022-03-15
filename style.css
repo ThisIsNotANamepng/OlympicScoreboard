@@ -1,0 +1,70 @@
+table, th, td {
+  border: 1px solid black;
+}
+
+#canadaFlag {
+  background-image: url('canada.jpeg');
+  background-repeat: no-repeat;
+  background-attachment: stretched;
+  background-size: 100% 100%;
+}
+#austriaFlag {
+  background-image: url('austria.jpeg');
+  background-repeat: no-repeat;
+  background-attachment: stretched;
+  background-size: 100% 100%;
+}
+#chinaFlag {
+  background-image: url('china.png');
+  background-repeat: no-repeat;
+  background-attachment: stretched;
+  background-size: 100% 100%;
+}
+#finlandFlag {
+  background-image: url('finland.jpeg');
+  background-repeat: no-repeat;
+  background-attachment: stretched;
+  background-size: 100% 100%;
+}
+#germanyFlag {
+  background-image: url('germany.jpeg');
+  background-repeat: no-repeat;
+  background-attachment: stretched;
+  background-size: 100% 100%;
+}
+#italyFlag {
+  background-image: url('italy.jpeg');
+  background-repeat: no-repeat;
+  background-attachment: stretched;
+  background-size: 100% 100%;
+}
+#netherlandsFlag {
+  background-image: url('netherlands.jpeg');
+  background-repeat: no-repeat;
+  background-attachment: stretched;
+  background-size: 100% 100%;
+}
+#zealandFlag {
+  background-image: url('newzealand.jpeg');
+  background-repeat: no-repeat;
+  background-attachment: stretched;
+  background-size: 100% 100%;
+}
+#norwayFlag {
+  background-image: url('norway.jpeg');
+  background-repeat: no-repeat;
+  background-attachment: stretched;
+  background-size: 100% 100%;
+}
+#swissFlag {
+  background-image: url('switzerland.jpeg');
+  background-repeat: no-repeat;
+  background-attachment: stretched;
+  background-size: 100% 100%;
+}
+#ukFlag {
+  background-image: url('uk.jpeg');
+  background-repeat: no-repeat;
+  background-attachment: stretched;
+  background-size: 100% 100%;
+}

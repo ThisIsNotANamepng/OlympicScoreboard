@@ -1,0 +1,26 @@
+{
+  "short_name": "Olympics Scoreboard",
+  "name": "Family Olympics Scoreboard",
+  "display": "fullscreen",
+  "icons": [
+    {
+      "src": "olympics.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    },
+    {
+      "src": "olympics-192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/olympics.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "https://OlympicScoreboard.duckit.repl.co",
+  "background_color": "#29283E",
+  "scope": "/",
+  "theme_color": "#29283E"
+}
